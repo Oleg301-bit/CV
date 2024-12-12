@@ -1,0 +1,46 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: aliceblue;
+  font-size: 1em;
+}
+h1 {
+  color: blueviolet;
+}
+.check-color {
+  color: blueviolet;
+}
+
+.first-block {
+  display: flex;
+}
+.main-title {
+  color: blueviolet;
+  padding-left: 1em;
+}
+.years {
+  font-weight: bold;
+}
+.years-one {
+  font-weight: bold;
+  padding-left: 4em;
+}
+.locate-exp {
+  display: flex;
+  padding-left: 4em;
+}
+.italic-text {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+}
+hr {
+  color: green;
+}
+.menu-list li {
+  list-style: none;
+  margin-bottom: 1em;
+}
+.end {
+  padding-left: 7em;
+}
